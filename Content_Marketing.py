@@ -3,7 +3,7 @@ import openai
 from crewai import Agent, Task, Crew, Process
 import os
 
-os.environ['OPENAI_API_KEY']='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'
+APIKEY'
 
 st.subheader("Gen-Marketer")
 
