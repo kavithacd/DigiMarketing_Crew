@@ -15,7 +15,7 @@ gpt35 = ChatOpenAI(
   model_name="gpt-3.5",
 )
 
-llm=ChatOpenAI(model_name="gpt-3.5-turbo", openai_api_key='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')
+llm=ChatOpenAI(model_name="gpt-3.5-turbo", openai_api_key='Your Key Here')
 
 market_researcher = Agent(
 role = 'Market Researcher',
